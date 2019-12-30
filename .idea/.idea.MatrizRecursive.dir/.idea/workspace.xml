@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1a5d24f-667f-4dfa-8846-1d4e1ff25e72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MatrizRecursive.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatrizRecursive.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/MatrizRecursive.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/MatrizRecursive.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/MatrizRecursive.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/MatrizRecursive.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/MatrizRecursive.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/MatrizRecursive.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MatrizRecursive.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MatrizRecursive.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MatrizRecursive.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MatrizRecursive.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recursive.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Recursive.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\hp\Documents\MatrizRecursive\.idea\.idea.MatrizRecursive.dir\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9wKkz0bIIbbYG39XDa1VpsQ96" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MatrizRecursive" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MatrizRecursive.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577715833502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1577715833501" />
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom" timestamp="1577722501115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577722501115" />
+    <state width="1323" height="267" key="GridCell.Tab.0.center" timestamp="1577722501115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577722501115" />
+    <state width="1323" height="267" key="GridCell.Tab.0.left" timestamp="1577722501115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577722501115" />
+    <state width="1323" height="267" key="GridCell.Tab.0.right" timestamp="1577722501115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577722501115" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1577721825786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577721825786" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1577721825785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577721825785" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1577721825785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577721825785" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1577721825786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577721825786" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1577721825786" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.3.bottom" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.3.center" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.3.left" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.3.right" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.4.bottom" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.4.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.4.center" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.4.center/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.4.left" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.4.left/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state width="1323" height="223" key="GridCell.Tab.4.right" timestamp="1577721825787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1577721825787" />
+    <state x="496" y="59" key="RiderGenerateDialog" timestamp="1576766498165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="59" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1576766498165" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1577717674346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577717674346" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577718973266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577718973266" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1576684817791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1576684817791" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577721021534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577721021534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Program.cs</url>
+          <line>40</line>
+          <properties documentPath="$PROJECT_DIR$/Program.cs" initialLine="39">
+            <startOffsets>
+              <option value="1374" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1424" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Program.cs</url>
+          <line>41</line>
+          <properties documentPath="$PROJECT_DIR$/Program.cs" initialLine="40">
+            <startOffsets>
+              <option value="1440" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1495" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>464</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="471">
+            <startOffsets>
+              <option value="15969" />
+            </startOffsets>
+            <endOffsets>
+              <option value="15970" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>466</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="472">
+            <startOffsets>
+              <option value="16058" />
+            </startOffsets>
+            <endOffsets>
+              <option value="16090" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>467</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="473">
+            <startOffsets>
+              <option value="16103" />
+            </startOffsets>
+            <endOffsets>
+              <option value="16104" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>558</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="558">
+            <startOffsets>
+              <option value="18910" />
+            </startOffsets>
+            <endOffsets>
+              <option value="18957" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>559</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="559">
+            <startOffsets>
+              <option value="18975" />
+            </startOffsets>
+            <endOffsets>
+              <option value="19007" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>560</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="560">
+            <startOffsets>
+              <option value="19024" />
+            </startOffsets>
+            <endOffsets>
+              <option value="19032" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive.cs</url>
+          <line>552</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive.cs" initialLine="552">
+            <startOffsets>
+              <option value="18777" />
+            </startOffsets>
+            <endOffsets>
+              <option value="18810" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
