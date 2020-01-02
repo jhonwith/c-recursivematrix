@@ -63,8 +63,14 @@ namespace MatrizRecursive
             // int[] array7 = r.GetDigitNumber(231);
             // Console.WriteLine(r.printArrayRecursivity(array7));
 
-            int[,] matrix9 = r.GetMatrixWithZero(matrix3);
-            Console.WriteLine(r.printMatrixRecursivily(matrix9));
+            //int[,] matrix9 = r.GetMatrixWithZero(matrix3);
+            //Console.WriteLine(r.printMatrixRecursivily(matrix9));
+
+            // int[,] matrix10 = r.GetDeleteRowOfMatrix(matrix,1);
+            // Console.WriteLine(r.printMatrixRecursivily(matrix10));
+
+             int numbers = r.GetMatrixNumber(matrix);
+             Console.WriteLine(numbers);
 
 
         }

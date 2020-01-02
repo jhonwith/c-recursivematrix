@@ -562,5 +562,63 @@ namespace MatrizRecursive
                 FillSecondaryDeaconal(matrix,newMatrix,index);
             }
         }
+
+        public int[,] GetDeleteRowOfMatrix(int[,] matrix,int row)
+        {
+            int[,] newmatrix=new int[matrix.GetLength(0)-1,matrix.GetLength(1)];
+            return GetDeleteRowOfMatrix(matrix, newmatrix, row);
+        }
+
+        private int[,] GetDeleteRowOfMatrix(int[,] matrix, int[,] newmatrix, int row, int indexRow = 0,
+            int indexCol = 0, int indexRow2 = 0)
+        {
+            if (newmatrix.GetLength(0) == indexRow)
+            {
+                return newmatrix;
+            }
+            else
+            {
+                if (indexCol == matrix.GetLength(1))
+                {
+                    indexRow++;
+                    indexCol = 0;
+                    indexRow2++;
+                    return GetDeleteRowOfMatrix(matrix, newmatrix, row, indexRow, indexCol, indexRow2);
+                }
+                else
+                {
+                    if (indexRow2 == row)
+                    {
+                        indexRow2++;
+                    }
+                    newmatrix[indexRow, indexCol] = matrix[indexRow2, indexCol];
+                    indexCol++;
+                    return GetDeleteRowOfMatrix(matrix, newmatrix, row, indexRow, indexCol, indexRow2);
+                    
+                }
+            }
+        }
+
+        public int GetMatrixNumber(int[,] matrix,int indexRow=0,int indexCol=0, string result="")
+        {
+            if (matrix.GetLength(0) == indexRow)
+            {
+                //convirtiendo en un entero
+                //return Convert.ToInt32(result);
+                return Int32.Parse(result);
+            }
+            else
+            {
+                if (indexCol == matrix.GetLength(1))
+                {
+                    indexRow++;
+                    indexCol = 0;
+                    return GetMatrixNumber(matrix, indexRow, indexCol, result);
+                }
+                result += ""+matrix[indexRow,indexCol];
+                indexCol++;
+                return GetMatrixNumber(matrix, indexRow, indexCol, result);
+            }
+        }
     }
 }
